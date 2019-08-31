@@ -3,8 +3,8 @@
 
 ---
 
-## Var används elektromagnetisk induktion idag?
-@ul[spaced text-white]
+# Var används elektromagnetisk induktion idag?
+@ul[spaced text-black]
 - Omvandling av mekanisk energi till elektrisk energi
 - Energiöverföring och anpassning
 - Butikslarm, metalldetektorer
