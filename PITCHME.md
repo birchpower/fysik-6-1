@@ -17,14 +17,12 @@
 ---
 
 @snap[north-west span-50]
-Experiment 1
-@snapend
+#### Experiment 1
 
-@snap[text-west]
 Spole kopplad till spänningsmätare.
 Sluten krets utan applicering av ström/spänning.
 
-Omen en magnet förs in i spolen ger spänningsmätaren ett utslag. Magnetens
+Om en magnet förs in i spolen ger spänningsmätaren ett utslag. Magnetens
 hastighet samt riktning påverkar spänningsutslaget.
 
 Magnetens rörelse förändrar det magnetiska fältet genom spolen.
@@ -33,9 +31,12 @@ skaper en spänning över spolen.
 @snapend
 
 +++
-
+@snap[north span-100]
 Magnetiskt flöde = Tvärsnittsarea * magnetiska flödestätheten
-
-$$\bar{\Phi}=\hat{A}\cdot\bar{B}$$
-
+@math
+`\[
+\bar{\Phi}=\hat{A}\cdot\bar{B}
+\]`
+@mathend
+@snapend
 ---
