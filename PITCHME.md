@@ -2,8 +2,10 @@
 ## Elektromagnetisk induktion
 
 ---
+---?color=linear-gradient(180deg, white 75%, black 25%)
+@title[Induktion idag]
 
-Var används elektromagnetisk induktion idag?
+#### Var används elektromagnetisk induktion idag?
 @ul[spaced text-black]
 - Omvandling av mekanisk energi till elektrisk energi
 - Energiöverföring och anpassning
@@ -15,8 +17,11 @@ Var används elektromagnetisk induktion idag?
 
 ---
 
+@snap[west span-50]
 Experiment 1
+@snapend
 
+@snap[text-center]
 Spole kopplad till spänningsmätare.
 Sluten krets utan applicering av ström/spänning.
 
@@ -26,3 +31,14 @@ hastighet samt riktning påverkar spänningsutslaget.
 Magnetens rörelse förändrar det magnetiska fältet genom spolen.
 Flödesförändringen ger upphov till ett elektriskt fält som i sin tur
 skaper en spänning över spolen.
+@snapend
+
++++
+
+Magnetiskt flöde = Tvärsnittsarea * magnetiska flödestätheten
+
+@snap[west span-40]
+@box[bg-green]($$\bar{\Phi}=\hat{A}\cdot\bar{B}$$)
+@snapend
+
+---
