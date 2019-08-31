@@ -1,8 +1,7 @@
 ### Fysik 6
 ## Elektromagnetisk induktion
 
----
----?color=linear-gradient(180deg, white 75%, black 25%)
+---[comment]: # (?color=linear-gradient(180deg, white 90%, black 25%))
 @title[Induktion idag]
 
 #### Var används elektromagnetisk induktion idag?
@@ -17,11 +16,11 @@
 
 ---
 
-@snap[west span-50]
+@snap[north-west span-50]
 Experiment 1
 @snapend
 
-@snap[text-center]
+@snap[text-west]
 Spole kopplad till spänningsmätare.
 Sluten krets utan applicering av ström/spänning.
 
@@ -37,8 +36,6 @@ skaper en spänning över spolen.
 
 Magnetiskt flöde = Tvärsnittsarea * magnetiska flödestätheten
 
-@snap[west span-40]
-@box[bg-green]($$\bar{\Phi}=\hat{A}\cdot\bar{B}$$)
-@snapend
+$$\bar{\Phi}=\hat{A}\cdot\bar{B}$$
 
 ---
