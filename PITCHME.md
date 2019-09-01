@@ -35,7 +35,7 @@ skaper en spänning över spolen.
 Magnetiskt flöde = Tvärsnittsarea * magnetiska flödestätheten
 @math
 `\[
-\bar{\Phi}=\hat{A}\cdot\bar{B}
+\widebar{\Phi}=\widebar{A}\cdot\widebar{B}
 \]`
 @mathend
 @snapend
