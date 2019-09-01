@@ -16,7 +16,7 @@
 
 ---
 
-@snap[north-west span-50]
+@snap[north-west span-100]
 #### Experiment 1
 
 Spole kopplad till spänningsmätare.
@@ -30,12 +30,12 @@ Flödesförändringen ger upphov till ett elektriskt fält som i sin tur
 skaper en spänning över spolen.
 @snapend
 
-+++
+---
 @snap[north span-100]
 Magnetiskt flöde = Tvärsnittsarea * magnetiska flödestätheten
 @math
 `\[
-\widebar{\Phi}=\widebar{A}\cdot\widebar{B}
+\overline{\Phi}=\overline{A}\cdot\overline{B}
 \]`
 @mathend
 @snapend
